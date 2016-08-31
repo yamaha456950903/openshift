@@ -1,1 +1,1 @@
-www
+<?php phpinfo(); ?>
